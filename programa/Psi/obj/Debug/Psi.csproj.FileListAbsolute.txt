@@ -1,0 +1,44 @@
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.csprojAssemblyReference.cache
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.Form1.resources
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.Properties.Resources.resources
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.csproj.GenerateResource.cache
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\source\repos\Psi\Psi\bin\Debug\Psi.exe.config
+C:\Users\Vartotojas\source\repos\Psi\Psi\bin\Debug\Psi.exe
+C:\Users\Vartotojas\source\repos\Psi\Psi\bin\Debug\Psi.pdb
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.exe
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.pdb
+C:\Users\Vartotojas\source\repos\Psi\Psi\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Vartotojas\source\repos\Psi\Psi\obj\Debug\Psi.csproj.CopyComplete
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\Psi.exe.config
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\Psi.exe
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\Psi.pdb
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\AdvancedDataGridView.dll
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.csprojAssemblyReference.cache
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.Form1.resources
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.Properties.Resources.resources
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.csproj.GenerateResource.cache
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.csproj.CopyComplete
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.exe
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\obj\Debug\Psi.pdb
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\ExcelLibrary.dll
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\AdvancedDataGridView.xml
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\Algirdas Benetis\Desktop\xdxd\nigg\Psi\bin\Debug\euipo_db_Orig.accdb
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\euipo_db_Orig.accdb
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\Psi.exe.config
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\Psi.exe
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\Psi.pdb
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\AdvancedDataGridView.dll
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\AdvancedDataGridView.xml
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.Form1.resources
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.Properties.Resources.resources
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.csproj.GenerateResource.cache
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.csproj.CoreCompileInputs.cache
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.csproj.CopyComplete
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.exe
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.pdb
+C:\Users\justa\OneDrive\Stalinis kompiuteris\IV Semestras\PSI\PSI\xdxd\nigg\Psi\obj\Debug\Psi.csprojAssemblyReference.cache
